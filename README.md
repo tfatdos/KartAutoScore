@@ -1,0 +1,2 @@
+# KartAutoScore
+kartrider automatic scoring
