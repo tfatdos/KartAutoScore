@@ -23,7 +23,6 @@ def get_map(message):
     index_l = message.find(' ',index_f+1,-1)
     map_l = message[index_f+1:index_l]
     #print(map_l)
-    print(map_f)
     return map_f + map_l
 
 
